@@ -1,7 +1,7 @@
 # cit281-p2
 Project 2
 
-<img src= file:///C:/Users/happy/OneDrive%20-%20University%20Of%20Oregon/2022-2023/Spring%20term/cit281/p2photo.png" alt="photo">
+<img src= "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="photo">
 
 Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code
 
